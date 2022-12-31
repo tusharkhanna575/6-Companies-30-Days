@@ -1,5 +1,5 @@
 ## Challenge Company 1 : Microsoft 
-- [ ] [You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+- [x] [You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 - [ ] [Combination Sum with a twist](https://leetcode.com/problems/combination-sum-iii/)
 - [ ] [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)
 - [ ] [You are given an integer array nums of length n. Return maximum length of Rotation Function](https://leetcode.com/problems/rotate-function/)
