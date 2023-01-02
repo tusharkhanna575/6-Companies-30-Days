@@ -5,7 +5,7 @@
 - [x] [You are given an integer array nums of length n. Return maximum length of Rotation Function](https://leetcode.com/problems/rotate-function/)
 - [x] [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)
 - [ ] [How to find a perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)
-- [ ] [Scheduling a Course](https://leetcode.com/problems/course-schedule/)
+- [x] [Scheduling a Course](https://leetcode.com/problems/course-schedule/)
 - [ ] [Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree/)
 - [ ] [Number of Pairs satisfying Inequality](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/)
 - [ ] [Shortest Unsorted continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
