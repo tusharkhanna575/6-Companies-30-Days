@@ -2,7 +2,7 @@
 - [x] [You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 - [x] [Combination Sum with a twist](https://leetcode.com/problems/combination-sum-iii/)
 - [x] [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)
-- [ ] [You are given an integer array nums of length n. Return maximum length of Rotation Function](https://leetcode.com/problems/rotate-function/)
+- [x] [You are given an integer array nums of length n. Return maximum length of Rotation Function](https://leetcode.com/problems/rotate-function/)
 - [ ] [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)
 - [ ] [How to find a perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)
 - [ ] [Scheduling a Course](https://leetcode.com/problems/course-schedule/)
