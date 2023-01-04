@@ -8,7 +8,7 @@
 7. [Scheduling a Course](https://leetcode.com/problems/course-schedule/submissions/869932100/)
 8. [Profitable Path in a Tree]()
 9. [Number of Pairs satisfying Inequality]()
-10. [Shortest Unsorted continuous Subarray]()
+10. [Shortest Unsorted continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/submissions/871402985/)
 11. [Number of ways to arrive at a Destination]()
 12. [Longest Happy Prefix]()
 13. [Seat Arrangement in a SpiceJet Problem](https://leetcode.com/problems/airplane-seat-assignment-probability/submissions/871398894/)
