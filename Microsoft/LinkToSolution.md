@@ -11,6 +11,6 @@
 10. [Shortest Unsorted continuous Subarray]()
 11. [Number of ways to arrive at a Destination]()
 12. [Longest Happy Prefix]()
-13. [Seat Arrangement in a SpiceJet Problem]()
+13. [Seat Arrangement in a SpiceJet Problem](https://leetcode.com/problems/airplane-seat-assignment-probability/submissions/871398894/)
 14. [Deletions to make an array divisible]()
 15. [Substrings containing all three Characters]()
