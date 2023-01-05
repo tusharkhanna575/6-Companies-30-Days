@@ -13,4 +13,4 @@
 - [ ] [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/)
 - [x] [Seat Arrangement in a SpiceJet Problem - **Online OA February ‘22**](https://leetcode.com/problems/airplane-seat-assignment-probability/)
 - [ ] [Deletions to make an array divisible](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/)
-- [ ] [Substrings containing all three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)
+- [x] [Substrings containing all three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)
