@@ -6,7 +6,7 @@
 5. [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/submissions/869923663/)
 6. [How to find a perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/submissions/872108119/)
 7. [Scheduling a Course](https://leetcode.com/problems/course-schedule/submissions/869932100/)
-8. [Profitable Path in a Tree]()
+8. [Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree/submissions/872115432/)
 9. [Number of Pairs satisfying Inequality]()
 10. [Shortest Unsorted continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/submissions/871402985/)
 11. [Number of ways to arrive at a Destination]()
