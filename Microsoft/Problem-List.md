@@ -7,7 +7,7 @@
 - [x] [How to find a perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)
 - [x] [Scheduling a Course](https://leetcode.com/problems/course-schedule/)
 - [x] [Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree/)
-- [ ] [Number of Pairs satisfying Inequality](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/)
+- [x] [Number of Pairs satisfying Inequality](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/)
 - [x] [Shortest Unsorted continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
 - [x] [Number of ways to arrive at a Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/)
 - [x] [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/)
