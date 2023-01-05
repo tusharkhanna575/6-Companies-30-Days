@@ -13,4 +13,4 @@
 12. [Longest Happy Prefix]()
 13. [Seat Arrangement in a SpiceJet Problem](https://leetcode.com/problems/airplane-seat-assignment-probability/submissions/871398894/)
 14. [Deletions to make an array divisible]()
-15. [Substrings containing all three Characters]()
+15. [Substrings containing all three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/submissions/872123461/)
