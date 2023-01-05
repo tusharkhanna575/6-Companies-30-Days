@@ -10,7 +10,7 @@
 9. [Number of Pairs satisfying Inequality]()
 10. [Shortest Unsorted continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/submissions/871402985/)
 11. [Number of ways to arrive at a Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/submissions/872126552/)
-12. [Longest Happy Prefix]()
+12. [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/submissions/872148527/)
 13. [Seat Arrangement in a SpiceJet Problem](https://leetcode.com/problems/airplane-seat-assignment-probability/submissions/871398894/)
 14. [Deletions to make an array divisible](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/submissions/872131364/)
 15. [Substrings containing all three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/submissions/872123461/)
