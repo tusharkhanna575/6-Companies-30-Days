@@ -4,7 +4,7 @@
 - [x] [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)
 - [x] [You are given an integer array nums of length n. Return maximum length of Rotation Function](https://leetcode.com/problems/rotate-function/)
 - [x] [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)
-- [ ] [How to find a perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)
+- [x] [How to find a perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)
 - [x] [Scheduling a Course](https://leetcode.com/problems/course-schedule/)
 - [ ] [Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree/)
 - [ ] [Number of Pairs satisfying Inequality](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/)
