@@ -9,7 +9,7 @@
 8. [Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree/submissions/872115432/)
 9. [Number of Pairs satisfying Inequality]()
 10. [Shortest Unsorted continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/submissions/871402985/)
-11. [Number of ways to arrive at a Destination]()
+11. [Number of ways to arrive at a Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/submissions/872126552/)
 12. [Longest Happy Prefix]()
 13. [Seat Arrangement in a SpiceJet Problem](https://leetcode.com/problems/airplane-seat-assignment-probability/submissions/871398894/)
 14. [Deletions to make an array divisible]()
