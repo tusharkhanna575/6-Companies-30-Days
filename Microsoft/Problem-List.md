@@ -12,5 +12,5 @@
 - [x] [Number of ways to arrive at a Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/)
 - [ ] [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/)
 - [x] [Seat Arrangement in a SpiceJet Problem - **Online OA February ‘22**](https://leetcode.com/problems/airplane-seat-assignment-probability/)
-- [ ] [Deletions to make an array divisible](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/)
+- [x] [Deletions to make an array divisible](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/)
 - [x] [Substrings containing all three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)
