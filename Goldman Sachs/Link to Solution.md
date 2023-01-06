@@ -1,15 +1,16 @@
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
+### Links
+1. [Max Points on a Line]()
+2. [Valid Square]()
+3. [Factorial with Trailing Zeroes]()
+4. [Number of Boomerangs]() (Similar to peacocks question)
+5. [Split Array into Sequences]()
+6. [Minimum Consecutive Cards to pick up]()
+7. [Count Good Triplets in Array]() (Profits in a Startup Question)
+8. [Maximum Points in Archery Competition]()
+9. [Initial Public Offering]()
+10. [People and Secret]()
+11. [Invalid Transactions in an EMI]()
+12. [All elements of a binary Search Tree]()
+13. [Rhombus Sums in a GRID]()
+14. [Nice Pairs in Array]() (OTT Platforms and John)
+15. [Good People based on Statements]()
