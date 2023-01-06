@@ -11,6 +11,6 @@
 - [x] [Shortest Unsorted continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
 - [x] [Number of ways to arrive at a Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/)
 - [x] [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/)
-- [x] [Seat Arrangement in a SpiceJet Problem - **Online OA February ‘22**](https://leetcode.com/problems/airplane-seat-assignment-probability/)
+- [x] [Seat Arrangement in a SpiceJet Problem](https://leetcode.com/problems/airplane-seat-assignment-probability/) (Online OA February ‘22)
 - [x] [Deletions to make an array divisible](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/)
 - [x] [Substrings containing all three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)
