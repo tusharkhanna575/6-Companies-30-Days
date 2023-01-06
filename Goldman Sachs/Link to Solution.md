@@ -1,7 +1,7 @@
 ### Links
 1. [Max Points on a Line]()
 2. [Valid Square]()
-3. [Factorial with Trailing Zeroes]()
+3. [Factorial with Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/submissions/872572862/)
 4. [Number of Boomerangs]() (Similar to peacocks question)
 5. [Split Array into Sequences]()
 6. [Minimum Consecutive Cards to pick up]()
