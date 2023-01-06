@@ -1,6 +1,6 @@
 ## Challenge Company 2 : Goldman Sachs
 - [ ] [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
-- [ ] [Valid Square](https://leetcode.com/problems/valid-square/)
+- [x] [Valid Square](https://leetcode.com/problems/valid-square/)
 - [x] [Factorial with Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)
 - [ ] [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/) (Similar to peacocks question)
 - [ ] [Split Array into Sequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)
