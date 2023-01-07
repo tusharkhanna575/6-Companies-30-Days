@@ -10,7 +10,7 @@
 9. [Initial Public Offering]()
 10. [People and Secret]()
 11. [Invalid Transactions in an EMI]()
-12. [All elements of a binary Search Tree]()
+12. [All elements of a binary Search Tree](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/submissions/873112755/)
 13. [Rhombus Sums in a GRID]()
 14. [Nice Pairs in Array]() (OTT Platforms and John)
 15. [Good People based on Statements]()
