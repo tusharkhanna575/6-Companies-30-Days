@@ -2,7 +2,7 @@
 - [ ] [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
 - [x] [Valid Square](https://leetcode.com/problems/valid-square/)
 - [x] [Factorial with Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)
-- [ ] [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/) (Similar to peacocks question)
+- [x] [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/) (Similar to peacocks question)
 - [ ] [Split Array into Sequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)
 - [ ] [Minimum Consecutive Cards to pick up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/)
 - [ ] [Count Good Triplets in Array](https://leetcode.com/problems/count-good-triplets-in-an-array/) (Profits in a Startup Question)
