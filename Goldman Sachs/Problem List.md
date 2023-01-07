@@ -10,7 +10,7 @@
 - [ ] [Initial Public Offering](https://leetcode.com/problems/ipo/)
 - [ ] [People and Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/)
 - [ ] [Invalid Transactions in an EMI](https://leetcode.com/problems/invalid-transactions/)
-- [ ] [All elements of a binary Search Tree](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)
+- [x] [All elements of a binary Search Tree](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)
 - [ ] [Rhombus Sums in a GRID](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/)
 - [ ] [Nice Pairs in Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/) (OTT Platforms and John)
 - [ ] [Good People based on Statements](https://leetcode.com/problems/maximum-good-people-based-on-statements/)
