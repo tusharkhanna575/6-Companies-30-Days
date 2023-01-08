@@ -1,5 +1,5 @@
 ### Links
-1. [Max Points on a Line]()
+1. [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/submissions/874239336/)
 2. [Valid Square](https://leetcode.com/problems/valid-square/submissions/872680316/)
 3. [Factorial with Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/submissions/872572862/)
 4. [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/submissions/873452845/) (Similar to peacocks question)
