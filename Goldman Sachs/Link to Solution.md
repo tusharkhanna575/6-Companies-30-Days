@@ -4,7 +4,7 @@
 3. [Factorial with Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/submissions/872572862/)
 4. [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/submissions/873452845/) (Similar to peacocks question)
 5. [Split Array into Sequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/submissions/874822984/)
-6. [Minimum Consecutive Cards to pick up]()
+6. [Minimum Consecutive Cards to pick up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/submissions/875486164/)
 7. [Count Good Triplets in Array]() (Profits in a Startup Question)
 8. [Maximum Points in Archery Competition]()
 9. [Initial Public Offering]()
