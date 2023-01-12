@@ -6,7 +6,7 @@
 5. [Split Array into Sequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/submissions/874822984/)
 6. [Minimum Consecutive Cards to pick up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/submissions/875486164/)
 7. [Count Good Triplets in Array]() (Profits in a Startup Question)
-8. [Maximum Points in Archery Competition]()
+8. [Maximum Points in Archery Competition](https://leetcode.com/problems/maximum-points-in-an-archery-competition/submissions/876795676/)
 9. [Initial Public Offering]()
 10. [People and Secret]()
 11. [Invalid Transactions in an EMI]()
