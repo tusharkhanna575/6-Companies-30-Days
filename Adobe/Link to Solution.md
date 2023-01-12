@@ -1,5 +1,5 @@
 ### Links
-1. [Fraction to a recurring Decimal]()
+1. [Fraction to a recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/submissions/876785040/)
 2. [Increasing Triplet Sequence](https://leetcode.com/problems/increasing-triplet-subsequence/submissions/876007868/)
 3. [Kth smallest in Lexographical Order]()
 4. [Magical String]()
