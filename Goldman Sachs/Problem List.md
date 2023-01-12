@@ -6,7 +6,7 @@
 - [x] [Split Array into Sequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)
 - [x] [Minimum Consecutive Cards to pick up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/)
 - [ ] [Count Good Triplets in Array](https://leetcode.com/problems/count-good-triplets-in-an-array/) (Profits in a Startup Question)
-- [ ] [Maximum Points in Archery Competition](https://leetcode.com/problems/maximum-points-in-an-archery-competition/)
+- [x] [Maximum Points in Archery Competition](https://leetcode.com/problems/maximum-points-in-an-archery-competition/)
 - [ ] [Initial Public Offering](https://leetcode.com/problems/ipo/)
 - [ ] [People and Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/)
 - [ ] [Invalid Transactions in an EMI](https://leetcode.com/problems/invalid-transactions/)
