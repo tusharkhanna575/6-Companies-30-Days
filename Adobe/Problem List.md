@@ -1,5 +1,5 @@
 ## Challenge Company 3 : Adobe
-- [ ] [Fraction to a recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)
+- [x] [Fraction to a recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)
 - [x] [Increasing Triplet Sequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
 - [ ] [Kth smallest in Lexographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/)
 - [ ] [Magical String](https://leetcode.com/problems/magical-string/)
