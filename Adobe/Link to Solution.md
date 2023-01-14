@@ -4,7 +4,7 @@
 3. [Kth smallest in Lexographical Order]()
 4. [Magical String]()
 5. [Non Negative Integers without consecutive ones]()
-6. [Knight in a Chessboard]()
+6. [Knight in a Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/submissions/877850265/)
 7. [Matching Subsequences]()
 8. [Genetic Mutation]()
 9. [Count nodes equal to average of Subtree]()
