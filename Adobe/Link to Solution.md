@@ -7,7 +7,7 @@
 6. [Knight in a Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/submissions/877850265/)
 7. [Matching Subsequences]()
 8. [Genetic Mutation]()
-9. [Count nodes equal to average of Subtree]()
+9. [Count nodes equal to average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/submissions/877854609/)
 10. [Max matrix Sum]()
 11. [Stock Price Fluctuation]()
 12. [Shortest Unsorted Continuous Subarray]()
