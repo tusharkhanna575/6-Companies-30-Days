@@ -13,9 +13,7 @@
 1. **Microsoft**
 2. **Goldman Sachs**
 3. **Adobe**
-4.
-5.
-6.
+4. **Flipkart**
 
 ## My LeetCode Profile :   
 [![Leetcode Stats](https://leetcard.jacoblin.cool/tusharkhanna575?theme=unicorn&ext=heatmap&border=0&radius=20)](https://leetcode.com/tusharkhanna575)
