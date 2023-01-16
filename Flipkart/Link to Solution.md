@@ -1,0 +1,16 @@
+### Links
+1. [Partition to K Equal Sum Subsets]()
+2. [Sale and Offers at Flipkart BBD]()
+3. [Remove Zero Sum Consecutive Nodes]()
+4. [Winner of the Game]()
+5. [Finding the Mountain Array]()
+6. [Number of ways to separate Numbers]()
+7. [City With the Smallest Number of Neighbors at a Threshold Distance]()
+8. [Closest Primes in Range]()
+9. [Top K frequent Words]()
+10. [Distant Barcodes]()
+11. [The new game to Play]()
+12. [Check If a String Contains All Binary Codes of Size K]()
+13. [Max Area of Island]()
+14. [Custom String Sorting]()
+15. [House Robber]() ~ **Very Important**
