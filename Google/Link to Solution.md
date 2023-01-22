@@ -1,6 +1,6 @@
 1. [Maximum Consecutive Floors Without Special Floors]()
 2. [Maximum Good People Based on Statements]()
-3. [Sort an array]()
+3. [Sort an array](https://leetcode.com/problems/sort-an-array/submissions/882906826/)
 4. [Fruit into Baskets]()
 5. [Number of Closed Islands]()
 6. [Distinct Echo Substrings]()
