@@ -7,7 +7,7 @@
 7. [K divisible Array Substrings]()
 8. [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/submissions/883069905/) (New Project at Google Play Services)
 9. [Maximum Numbers of Coins you can get]()
-10. [Network Delay Time]()
+10. [Network Delay Time](https://leetcode.com/problems/network-delay-time/submissions/883257526/)
 11. [Matrix Block Sum]()
 12. [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/submissions/882183296/)
 13. [Swim in rising Water]() (Jeff and the rising hat)
