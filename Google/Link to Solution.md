@@ -5,7 +5,7 @@
 5. [Number of Closed Islands]()
 6. [Distinct Echo Substrings]()
 7. [K divisible Array Substrings]()
-8. [Random Pick with Weight]() (New Project at Google Play Services)
+8. [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/submissions/883069905/) (New Project at Google Play Services)
 9. [Maximum Numbers of Coins you can get]()
 10. [Network Delay Time]()
 11. [Matrix Block Sum]()
