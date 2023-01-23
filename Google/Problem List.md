@@ -9,7 +9,7 @@
 - [ ] [K divisible Array Substrings](https://leetcode.com/problems/k-divisible-elements-subarrays/)
 - [x] [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) **(New Project at Google Play Services)**
 - [ ] [Maximum Numbers of Coins you can get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)
-- [ ] [Network Delay Time](https://leetcode.com/problems/network-delay-time/)
+- [x] [Network Delay Time](https://leetcode.com/problems/network-delay-time/)
 - [ ] [Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/)
 - [x] [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)
 - [ ] [Swim in rising Water](https://leetcode.com/problems/swim-in-rising-water/) **(Jeff and the rising hat)**
