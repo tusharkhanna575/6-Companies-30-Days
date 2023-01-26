@@ -8,7 +8,7 @@
 - [ ] [Count Good Triplets in Array](https://leetcode.com/problems/count-good-triplets-in-an-array/) (Profits in a Startup Question)
 - [x] [Maximum Points in Archery Competition](https://leetcode.com/problems/maximum-points-in-an-archery-competition/)
 - [ ] [Initial Public Offering](https://leetcode.com/problems/ipo/)
-- [ ] [People and Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/)
+- [x] [People and Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/)
 - [ ] [Invalid Transactions in an EMI](https://leetcode.com/problems/invalid-transactions/)
 - [x] [All elements of a binary Search Tree](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)
 - [ ] [Rhombus Sums in a GRID](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/)
