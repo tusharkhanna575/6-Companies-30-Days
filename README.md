@@ -15,7 +15,7 @@
 - [ ] [**Adobe**](https://github.com/tusharkhanna575/6-Companies-30-Days/tree/main/Adobe)
 - [ ] [**Flipkart**](https://github.com/tusharkhanna575/6-Companies-30-Days/tree/main/Flipkart)
 - [ ] [**Google**](https://github.com/tusharkhanna575/6-Companies-30-Days/tree/main/Google)
-- [ ] [**Amazon**](https://github.com/tusharkhanna575/6-Companies-30Days/tree/main/Amazon)
+- [ ] [**Amazon**](https://github.com/tusharkhanna575/6-Companies-30-Days/tree/main/Amazon)
 
 ## My LeetCode Profile :   
 [![Leetcode Stats](https://leetcard.jacoblin.cool/tusharkhanna575?theme=unicorn&ext=heatmap&border=0&radius=20)](https://leetcode.com/tusharkhanna575)
