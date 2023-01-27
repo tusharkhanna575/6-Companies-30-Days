@@ -9,7 +9,7 @@
 - [ ] [Dota2 Senate](https://leetcode.com/problems/dota2-senate/)
 - [ ] [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/)
 - [ ] [Most Popular Video Creator](https://leetcode.com/problems/most-popular-video-creator/)
-- [ ] [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) (The stewart and the puppy)
+- [x] [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) (The stewart and the puppy)
 - [ ] [Number of ways to reach a position](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/)
 - [ ] [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
 - [ ] [Top K frequent words](https://leetcode.com/problems/top-k-frequent-words/)
