@@ -1,4 +1,4 @@
-1. [Shuffle an array]()
+1. [Shuffle an array](https://leetcode.com/problems/shuffle-an-array/submissions/886166568/)
 2. [Cheapest Flights with K stops]() (Flight system in Europe)
 3. [Split String into maximum number of Unique Substrings]()
 4. [Tweet Count per Frequency]()
