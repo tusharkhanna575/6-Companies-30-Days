@@ -7,7 +7,7 @@
 7. [Dota2 Senate]()
 8. [Destroying Asteroids]()
 9. [Most Popular Video Creator]()
-10. [Number of Matching Subsequences]() (The stewart and the puppy)
+10. [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/submissions/886176867/) (The stewart and the puppy)
 11. [Number of ways to reach a position]()
 12. [Maximum Length of Repeated Subarray]()
 13. [Top K frequent words]()
