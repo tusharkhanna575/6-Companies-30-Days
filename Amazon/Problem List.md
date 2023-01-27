@@ -1,0 +1,17 @@
+## Challenge Company 6 : Amazon 
+
+- [ ] [Shuffle an array](https://leetcode.com/problems/shuffle-an-array/)
+- [ ] [Cheapest Flights with K stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) (Flight system in Europe)
+- [ ] [Split String into maximum number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/)
+- [ ] [Tweet Count per Frequency](https://leetcode.com/problems/tweet-counts-per-frequency/)
+- [ ] [Maximum sum of hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass/)
+- [ ] [Maximum Subarray Min Product](https://leetcode.com/problems/maximum-subarray-min-product/) (Amazon Fresh and the team)
+- [ ] [Dota2 Senate](https://leetcode.com/problems/dota2-senate/)
+- [ ] [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/)
+- [ ] [Most Popular Video Creator](https://leetcode.com/problems/most-popular-video-creator/)
+- [ ] [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) (The stewart and the puppy)
+- [ ] [Number of ways to reach a position](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/)
+- [ ] [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
+- [ ] [Top K frequent words](https://leetcode.com/problems/top-k-frequent-words/)
+- [ ] [Last Moment before all ants Fall out](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/)
+- [ ] [Generate Random point in a circle](https://leetcode.com/problems/generate-random-point-in-a-circle/)
