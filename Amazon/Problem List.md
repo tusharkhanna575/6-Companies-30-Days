@@ -2,7 +2,7 @@
 
 - [x] [Shuffle an array](https://leetcode.com/problems/shuffle-an-array/)
 - [x] [Cheapest Flights with K stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) (Flight system in Europe)
-- [ ] [Split String into maximum number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/)
+- [x] [Split String into maximum number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/)
 - [ ] [Tweet Count per Frequency](https://leetcode.com/problems/tweet-counts-per-frequency/)
 - [ ] [Maximum sum of hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass/)
 - [ ] [Maximum Subarray Min Product](https://leetcode.com/problems/maximum-subarray-min-product/) (Amazon Fresh and the team)
