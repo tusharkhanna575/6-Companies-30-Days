@@ -13,5 +13,5 @@
 - [ ] [Number of ways to reach a position](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/)
 - [x] [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
 - [x] [Top K frequent words](https://leetcode.com/problems/top-k-frequent-words/)
-- [ ] [Last Moment before all ants Fall out](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/)
+- [x] [Last Moment before all ants Fall out](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/)
 - [x] [Generate Random point in a circle](https://leetcode.com/problems/generate-random-point-in-a-circle/)
