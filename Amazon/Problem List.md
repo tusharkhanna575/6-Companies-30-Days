@@ -14,4 +14,4 @@
 - [x] [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
 - [x] [Top K frequent words](https://leetcode.com/problems/top-k-frequent-words/)
 - [ ] [Last Moment before all ants Fall out](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/)
-- [ ] [Generate Random point in a circle](https://leetcode.com/problems/generate-random-point-in-a-circle/)
+- [x] [Generate Random point in a circle](https://leetcode.com/problems/generate-random-point-in-a-circle/)
