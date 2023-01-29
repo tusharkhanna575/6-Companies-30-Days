@@ -11,6 +11,6 @@
 - [ ] [Distant Barcodes](https://leetcode.com/problems/distant-barcodes/)
 - [ ] [The new game to Play](https://leetcode.com/problems/new-21-game/)
 - [x] [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)
-- [ ] [Max Area of Island](https://leetcode.com/problems/max-area-of-island/https://leetcode.com/problems/max-area-of-island/)
+- [ ] [Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
 - [ ] [Custom String Sorting](https://leetcode.com/problems/custom-sort-string/)
 - [ ] [House Robber](https://leetcode.com/problems/house-robber-iii/) ~ **Very Important**
