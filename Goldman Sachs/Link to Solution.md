@@ -7,7 +7,7 @@
 6. [Minimum Consecutive Cards to pick up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/submissions/875486164/)
 7. [Count Good Triplets in Array](https://leetcode.com/problems/count-good-triplets-in-an-array/submissions/887454480/) (Profits in a Startup Question)
 8. [Maximum Points in Archery Competition](https://leetcode.com/problems/maximum-points-in-an-archery-competition/submissions/876795676/)
-9. [Initial Public Offering]()
+9. [Initial Public Offering](https://leetcode.com/problems/ipo/submissions/887568127/)
 10. [People and Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/submissions/885697818/)
 11. [Invalid Transactions in an EMI](https://leetcode.com/problems/invalid-transactions/submissions/887457980/)
 12. [All elements of a binary Search Tree](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/submissions/873112755/)
