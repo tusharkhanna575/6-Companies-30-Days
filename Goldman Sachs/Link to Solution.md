@@ -11,6 +11,6 @@
 10. [People and Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/submissions/885697818/)
 11. [Invalid Transactions in an EMI](https://leetcode.com/problems/invalid-transactions/submissions/887457980/)
 12. [All elements of a binary Search Tree](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/submissions/873112755/)
-13. [Rhombus Sums in a GRID]()
+13. [Rhombus Sums in a GRID](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/submissions/887465309/)
 14. [Nice Pairs in Array]() (OTT Platforms and John)
 15. [Good People based on Statements]()
