@@ -7,7 +7,7 @@
 6. [Number of ways to separate Numbers]()
 7. [City With the Smallest Number of Neighbors at a Threshold Distance]()
 8. [Closest Primes in Range]()
-9. [Top K frequent Words]()
+9. [Top K frequent Words](https://leetcode.com/problems/top-k-frequent-words/submissions/886180958/)
 10. [Distant Barcodes]()
 11. [The new game to Play]()
 12. [Check If a String Contains All Binary Codes of Size K]()
