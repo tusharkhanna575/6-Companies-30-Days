@@ -8,7 +8,7 @@
 - [x] [Maximum Subarray Min Product](https://leetcode.com/problems/maximum-subarray-min-product/) (Amazon Fresh and the team)
 - [x] [Dota2 Senate](https://leetcode.com/problems/dota2-senate/)
 - [x] [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/)
-- [ ] [Most Popular Video Creator](https://leetcode.com/problems/most-popular-video-creator/)
+- [x] [Most Popular Video Creator](https://leetcode.com/problems/most-popular-video-creator/)
 - [x] [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) (The stewart and the puppy)
 - [x] [Number of ways to reach a position](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/)
 - [x] [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
