@@ -10,7 +10,7 @@
 9. [Top K frequent Words](https://leetcode.com/problems/top-k-frequent-words/submissions/886180958/)
 10. [Distant Barcodes]()
 11. [The new game to Play]()
-12. [Check If a String Contains All Binary Codes of Size K]()
+12. [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/submissions/887429555/)
 13. [Max Area of Island]()
 14. [Custom String Sorting]()
 15. [House Robber]() ~ **Very Important**
