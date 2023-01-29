@@ -13,4 +13,4 @@
 12. [All elements of a binary Search Tree](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/submissions/873112755/)
 13. [Rhombus Sums in a GRID](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/submissions/887465309/)
 14. [Nice Pairs in Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/submissions/887480962/) (OTT Platforms and John)
-15. [Good People based on Statements]()
+15. [Good People based on Statements](https://leetcode.com/problems/maximum-good-people-based-on-statements/submissions/887578880/)
