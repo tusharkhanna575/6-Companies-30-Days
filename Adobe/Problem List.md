@@ -5,7 +5,7 @@
 - [ ] [Magical String](https://leetcode.com/problems/magical-string/)
 - [ ] [Non Negative Integers without consecutive ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/)
 - [x] [Knight in a Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/)
-- [ ] [Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)
+- [x] [Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)
 - [ ] [Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/)
 - [x] [Count nodes equal to average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/)
 - [ ] [Max matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/)
