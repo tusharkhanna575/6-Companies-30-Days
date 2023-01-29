@@ -1,7 +1,7 @@
 1. [Shuffle an array](https://leetcode.com/problems/shuffle-an-array/submissions/886166568/)
 2. [Cheapest Flights with K stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/submissions/885638227/) (Flight system in Europe)
 3. [Split String into maximum number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/submissions/886976652/)
-4. [Tweet Count per Frequency]()
+4. [Tweet Count per Frequency](https://leetcode.com/problems/tweet-counts-per-frequency/submissions/887417491/)
 5. [Maximum sum of hourglass]()
 6. [Maximum Subarray Min Product]() (Amazon Fresh and the team)
 7. [Dota2 Senate]()
