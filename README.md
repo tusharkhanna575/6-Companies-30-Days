@@ -11,7 +11,7 @@
 
 ## Companies List :
 - [x] [**Microsoft**](https://github.com/tusharkhanna575/6-Companies-30-Days/tree/main/Microsoft) - (15/15)
-- [ ] [**Goldman Sachs**](https://github.com/tusharkhanna575/6-Companies-30-Days/tree/main/Goldman%20Sachs) - (11/15)
+- [ ] [**Goldman Sachs**](https://github.com/tusharkhanna575/6-Companies-30-Days/tree/main/Goldman%20Sachs) - (13/15)
 - [ ] [**Adobe**](https://github.com/tusharkhanna575/6-Companies-30-Days/tree/main/Adobe) - (6/15)
 - [ ] [**Flipkart**](https://github.com/tusharkhanna575/6-Companies-30-Days/tree/main/Flipkart) - (3/15)
 - [ ] [**Google**](https://github.com/tusharkhanna575/6-Companies-30-Days/tree/main/Google) - (5/15)
