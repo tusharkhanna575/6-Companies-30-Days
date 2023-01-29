@@ -11,6 +11,6 @@
 11. [Matrix Block Sum]()
 12. [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/submissions/882183296/)
 13. [Swim in rising Water]() (Jeff and the rising hat)
-14. [Strictly Palindromic Number]()
+14. [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/submissions/887609259/)
 15. [Max Compatibility Score]()
 
