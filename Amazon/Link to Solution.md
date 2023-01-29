@@ -6,7 +6,7 @@
 6. [Maximum Subarray Min Product](https://leetcode.com/problems/maximum-subarray-min-product/submissions/887582118/) (Amazon Fresh and the team)
 7. [Dota2 Senate](https://leetcode.com/problems/dota2-senate/submissions/887587804/)
 8. [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/submissions/887591064/)
-9. [Most Popular Video Creator]()
+9. [Most Popular Video Creator](https://leetcode.com/problems/most-popular-video-creator/submissions/887594101/)
 10. [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/submissions/886176867/) (The stewart and the puppy)
 11. [Number of ways to reach a position](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/submissions/886802145/)
 12. [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/submissions/886179483/)
