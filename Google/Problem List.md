@@ -13,5 +13,5 @@
 - [ ] [Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/)
 - [x] [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)
 - [ ] [Swim in rising Water](https://leetcode.com/problems/swim-in-rising-water/) **(Jeff and the rising hat)**
-- [ ] [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/)
+- [x] [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/)
 - [ ] [Max Compatibility Score](https://leetcode.com/problems/maximum-compatibility-score-sum/)
