@@ -5,7 +5,7 @@
 - [x] [Split String into maximum number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/)
 - [x] [Tweet Count per Frequency](https://leetcode.com/problems/tweet-counts-per-frequency/)
 - [x] [Maximum sum of hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass/)
-- [ ] [Maximum Subarray Min Product](https://leetcode.com/problems/maximum-subarray-min-product/) (Amazon Fresh and the team)
+- [x] [Maximum Subarray Min Product](https://leetcode.com/problems/maximum-subarray-min-product/) (Amazon Fresh and the team)
 - [ ] [Dota2 Senate](https://leetcode.com/problems/dota2-senate/)
 - [ ] [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/)
 - [ ] [Most Popular Video Creator](https://leetcode.com/problems/most-popular-video-creator/)
