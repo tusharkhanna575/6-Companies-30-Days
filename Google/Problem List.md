@@ -1,7 +1,7 @@
 ## Challenge Company 5 : Google
 
 - [ ] [Maximum Consecutive Floors Without Special Floors](https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/)
-- [ ] [Maximum Good People Based on Statements](https://leetcode.com/problems/maximum-good-people-based-on-statements/)
+- [x] [Maximum Good People Based on Statements](https://leetcode.com/problems/maximum-good-people-based-on-statements/)
 - [x] [Sort an array](https://leetcode.com/problems/sort-an-array/)
 - [x] [Fruit into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
 - [ ] [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)
