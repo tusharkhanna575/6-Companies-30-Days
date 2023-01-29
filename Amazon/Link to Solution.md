@@ -4,7 +4,7 @@
 4. [Tweet Count per Frequency](https://leetcode.com/problems/tweet-counts-per-frequency/submissions/887417491/)
 5. [Maximum sum of hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass/submissions/887424277/)
 6. [Maximum Subarray Min Product](https://leetcode.com/problems/maximum-subarray-min-product/submissions/887582118/) (Amazon Fresh and the team)
-7. [Dota2 Senate]()
+7. [Dota2 Senate](https://leetcode.com/problems/dota2-senate/submissions/887587804/)
 8. [Destroying Asteroids]()
 9. [Most Popular Video Creator]()
 10. [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/submissions/886176867/) (The stewart and the puppy)
