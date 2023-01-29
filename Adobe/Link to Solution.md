@@ -5,7 +5,7 @@
 4. [Magical String]()
 5. [Non Negative Integers without consecutive ones]()
 6. [Knight in a Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/submissions/877850265/)
-7. [Matching Subsequences]()
+7. [Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/submissions/886176867/)
 8. [Genetic Mutation]()
 9. [Count nodes equal to average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/submissions/877854609/)
 10. [Max matrix Sum]()
