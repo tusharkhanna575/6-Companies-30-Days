@@ -3,7 +3,7 @@
 3. [Split String into maximum number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/submissions/886976652/)
 4. [Tweet Count per Frequency](https://leetcode.com/problems/tweet-counts-per-frequency/submissions/887417491/)
 5. [Maximum sum of hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass/submissions/887424277/)
-6. [Maximum Subarray Min Product]() (Amazon Fresh and the team)
+6. [Maximum Subarray Min Product](https://leetcode.com/problems/maximum-subarray-min-product/submissions/887582118/) (Amazon Fresh and the team)
 7. [Dota2 Senate]()
 8. [Destroying Asteroids]()
 9. [Most Popular Video Creator]()
