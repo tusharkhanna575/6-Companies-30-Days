@@ -10,7 +10,7 @@
 - [x] [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) **(New Project at Google Play Services)**
 - [ ] [Maximum Numbers of Coins you can get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)
 - [x] [Network Delay Time](https://leetcode.com/problems/network-delay-time/)
-- [ ] [Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/)
+- [x] [Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/)
 - [x] [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)
 - [ ] [Swim in rising Water](https://leetcode.com/problems/swim-in-rising-water/) **(Jeff and the rising hat)**
 - [x] [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/)
