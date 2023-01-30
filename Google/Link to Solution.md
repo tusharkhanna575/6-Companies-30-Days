@@ -12,5 +12,4 @@
 12. [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/submissions/882183296/)
 13. [Swim in rising Water](https://leetcode.com/problems/swim-in-rising-water/submissions/888080738/) (Jeff and the rising hat)
 14. [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/submissions/887609259/)
-15. [Max Compatibility Score]()
-
+15. [Max Compatibility Score](https://leetcode.com/problems/maximum-compatibility-score-sum/submissions/888153117/)
