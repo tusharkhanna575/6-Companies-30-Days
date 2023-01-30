@@ -6,7 +6,7 @@
 5. [Finding the Mountain Array]()
 6. [Number of ways to separate Numbers]()
 7. [City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/submissions/888245572/)
-8. [Closest Primes in Range]()
+8. [Closest Primes in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/submissions/888278067/)
 9. [Top K frequent Words](https://leetcode.com/problems/top-k-frequent-words/submissions/886180958/)
 10. [Distant Barcodes]()
 11. [The new game to Play]()
