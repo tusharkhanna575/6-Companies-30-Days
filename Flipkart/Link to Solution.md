@@ -1,5 +1,5 @@
 ### Links
-1. [Partition to K Equal Sum Subsets]()
+1. [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/submissions/888159177/)
 2. [Sale and Offers at Flipkart BBD]()
 3. [Remove Zero Sum Consecutive Nodes]()
 4. [Winner of the Game]()
