@@ -2,7 +2,7 @@
 - [x] [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)
 - [x] [Sale and Offers at Flipkart BBD](https://leetcode.com/problems/shopping-offers/)
 - [x] [Remove Zero Sum Consecutive Nodes](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/)
-- [ ] [Winner of the Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)
+- [x] [Winner of the Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)
 - [ ] [Finding the Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)
 - [ ] [Number of ways to separate Numbers](https://leetcode.com/problems/number-of-ways-to-separate-numbers/)
 - [ ] [City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)
