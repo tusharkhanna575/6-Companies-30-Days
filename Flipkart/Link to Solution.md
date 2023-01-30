@@ -1,6 +1,6 @@
 ### Links
 1. [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/submissions/888159177/)
-2. [Sale and Offers at Flipkart BBD]()
+2. [Sale and Offers at Flipkart BBD](https://leetcode.com/problems/shopping-offers/submissions/888201549/)
 3. [Remove Zero Sum Consecutive Nodes]()
 4. [Winner of the Game]()
 5. [Finding the Mountain Array]()
