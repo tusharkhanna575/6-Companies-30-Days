@@ -4,7 +4,7 @@
 4. [Fruit into Baskets](https://leetcode.com/problems/fruit-into-baskets/submissions/883707155/)
 5. [Number of Closed Islands]()
 6. [Distinct Echo Substrings]()
-7. [K divisible Array Substrings]()
+7. [K divisible Array Substrings](https://leetcode.com/problems/k-divisible-elements-subarrays/submissions/888085173/)
 8. [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/submissions/883069905/) (New Project at Google Play Services)
 9. [Maximum Numbers of Coins you can get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/submissions/888077013/)
 10. [Network Delay Time](https://leetcode.com/problems/network-delay-time/submissions/883257526/)
