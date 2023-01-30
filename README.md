@@ -14,7 +14,7 @@
 - [x] [**Goldman Sachs**](https://github.com/tusharkhanna575/6-Companies-30-Days/tree/main/Goldman%20Sachs) - (15/15)
 - [ ] [**Adobe**](https://github.com/tusharkhanna575/6-Companies-30-Days/tree/main/Adobe) - (8/15)
 - [ ] [**Flipkart**](https://github.com/tusharkhanna575/6-Companies-30-Days/tree/main/Flipkart) - (3/15)
-- [ ] [**Google**](https://github.com/tusharkhanna575/6-Companies-30-Days/tree/main/Google) - (8/15)
+- [ ] [**Google**](https://github.com/tusharkhanna575/6-Companies-30-Days/tree/main/Google) - (9/15)
 - [x] [**Amazon**](https://github.com/tusharkhanna575/6-Companies-30-Days/tree/main/Amazon) - (15/15)
 
 ## My LeetCode Profile :   
