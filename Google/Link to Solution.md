@@ -10,7 +10,7 @@
 10. [Network Delay Time](https://leetcode.com/problems/network-delay-time/submissions/883257526/)
 11. [Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/submissions/888053352/)
 12. [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/submissions/882183296/)
-13. [Swim in rising Water]() (Jeff and the rising hat)
+13. [Swim in rising Water](https://leetcode.com/problems/swim-in-rising-water/submissions/888080738/) (Jeff and the rising hat)
 14. [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/submissions/887609259/)
 15. [Max Compatibility Score]()
 
