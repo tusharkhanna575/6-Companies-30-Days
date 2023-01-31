@@ -2,7 +2,7 @@
 - [x] [Fraction to a recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)
 - [x] [Increasing Triplet Sequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
 - [ ] [Kth smallest in Lexographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/)
-- [ ] [Magical String](https://leetcode.com/problems/magical-string/)
+- [x] [Magical String](https://leetcode.com/problems/magical-string/)
 - [ ] [Non Negative Integers without consecutive ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/)
 - [x] [Knight in a Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/)
 - [x] [Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)
