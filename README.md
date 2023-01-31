@@ -13,7 +13,7 @@
 - [x] [**Microsoft**](https://github.com/tusharkhanna575/6-Companies-30-Days/tree/main/Microsoft) - (15/15)
 - [x] [**Goldman Sachs**](https://github.com/tusharkhanna575/6-Companies-30-Days/tree/main/Goldman%20Sachs) - (15/15)
 - [ ] [**Adobe**](https://github.com/tusharkhanna575/6-Companies-30-Days/tree/main/Adobe) - (8/15)
-- [ ] [**Flipkart**](https://github.com/tusharkhanna575/6-Companies-30-Days/tree/main/Flipkart) - (10/15)
+- [ ] [**Flipkart**](https://github.com/tusharkhanna575/6-Companies-30-Days/tree/main/Flipkart) - (11/15)
 - [ ] [**Google**](https://github.com/tusharkhanna575/6-Companies-30-Days/tree/main/Google) - (13/15)
 - [x] [**Amazon**](https://github.com/tusharkhanna575/6-Companies-30-Days/tree/main/Amazon) - (15/15)
 
