@@ -13,4 +13,4 @@
 - [x] [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
 - [ ] [Game of Dungeon](https://leetcode.com/problems/dungeon-game/)
 - [x] [People aware of secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/)
-- [ ] [Kth smallest Trimmed number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/)
+- [x] [Kth smallest Trimmed number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/)
