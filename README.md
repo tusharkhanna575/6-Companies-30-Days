@@ -19,3 +19,8 @@
 
 ## My LeetCode Profile :   
 [![Leetcode Stats](https://leetcard.jacoblin.cool/tusharkhanna575?theme=unicorn&ext=heatmap&border=0&radius=20)](https://leetcode.com/tusharkhanna575)
+
+
+## P.S. :
+Start Date -> 01 January 2023
+Completed On -> 31 January 2023
