@@ -4,7 +4,7 @@
 3. [Remove Zero Sum Consecutive Nodes](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/submissions/888205455/)
 4. [Winner of the Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/submissions/888212018/)
 5. [Finding the Mountain Array](https://leetcode.com/problems/find-in-mountain-array/submissions/888791411/)
-6. [Number of ways to separate Numbers]()
+6. [Number of ways to separate Numbers](https://leetcode.com/problems/number-of-ways-to-separate-numbers/submissions/888801482/)
 7. [City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/submissions/888245572/)
 8. [Closest Primes in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/submissions/888278067/)
 9. [Top K frequent Words](https://leetcode.com/problems/top-k-frequent-words/submissions/886180958/)
