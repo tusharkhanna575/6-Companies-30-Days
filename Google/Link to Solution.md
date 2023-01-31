@@ -3,7 +3,7 @@
 3. [Sort an array](https://leetcode.com/problems/sort-an-array/submissions/882906826/)
 4. [Fruit into Baskets](https://leetcode.com/problems/fruit-into-baskets/submissions/883707155/)
 5. [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/submissions/888794872/)
-6. [Distinct Echo Substrings]()
+6. [Distinct Echo Substrings](https://leetcode.com/problems/distinct-echo-substrings/submissions/888799145/)
 7. [K divisible Array Substrings](https://leetcode.com/problems/k-divisible-elements-subarrays/submissions/888085173/)
 8. [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/submissions/883069905/) (New Project at Google Play Services)
 9. [Maximum Numbers of Coins you can get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/submissions/888077013/)
