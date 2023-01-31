@@ -2,7 +2,7 @@
 2. [Maximum Good People Based on Statements](https://leetcode.com/problems/maximum-good-people-based-on-statements/submissions/887578880/)
 3. [Sort an array](https://leetcode.com/problems/sort-an-array/submissions/882906826/)
 4. [Fruit into Baskets](https://leetcode.com/problems/fruit-into-baskets/submissions/883707155/)
-5. [Number of Closed Islands]()
+5. [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/submissions/888794872/)
 6. [Distinct Echo Substrings]()
 7. [K divisible Array Substrings](https://leetcode.com/problems/k-divisible-elements-subarrays/submissions/888085173/)
 8. [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/submissions/883069905/) (New Project at Google Play Services)
