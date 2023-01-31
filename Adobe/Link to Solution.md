@@ -3,7 +3,7 @@
 2. [Increasing Triplet Sequence](https://leetcode.com/problems/increasing-triplet-subsequence/submissions/876007868/)
 3. [Kth smallest in Lexographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/submissions/888770809/)
 4. [Magical String](https://leetcode.com/problems/magical-string/submissions/888731218/)
-5. [Non Negative Integers without consecutive ones]()
+5. [Non Negative Integers without consecutive ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/submissions/888779574/)
 6. [Knight in a Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/submissions/877850265/)
 7. [Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/submissions/886176867/)
 8. [Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/submissions/887446737/)
