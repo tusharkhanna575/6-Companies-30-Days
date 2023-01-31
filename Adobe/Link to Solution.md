@@ -13,4 +13,4 @@
 12. [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/submissions/871402985/)
 13. [Game of Dungeon]()
 14. [People aware of secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/submissions/885697818/)
-15. [Kth smallest Trimmed number]()
+15. [Kth smallest Trimmed number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/submissions/888768768/)
