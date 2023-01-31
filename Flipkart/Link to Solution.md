@@ -9,7 +9,7 @@
 8. [Closest Primes in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/submissions/888278067/)
 9. [Top K frequent Words](https://leetcode.com/problems/top-k-frequent-words/submissions/886180958/)
 10. [Distant Barcodes](https://leetcode.com/problems/distant-barcodes/submissions/888491577/)
-11. [The new game to Play]()
+11. [The new game to Play](https://leetcode.com/problems/new-21-game/submissions/888494933/)
 12. [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/submissions/887429555/)
 13. [Max Area of Island](https://leetcode.com/problems/max-area-of-island/submissions/887430607/)
 14. [Custom String Sorting]()
