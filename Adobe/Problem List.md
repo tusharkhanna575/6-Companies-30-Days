@@ -8,7 +8,7 @@
 - [x] [Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)
 - [x] [Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/)
 - [x] [Count nodes equal to average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/)
-- [ ] [Max matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/)
+- [x] [Max matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/)
 - [x] [Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation/)
 - [x] [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
 - [ ] [Game of Dungeon](https://leetcode.com/problems/dungeon-game/)
