@@ -3,7 +3,7 @@
 2. [Sale and Offers at Flipkart BBD](https://leetcode.com/problems/shopping-offers/submissions/888201549/)
 3. [Remove Zero Sum Consecutive Nodes](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/submissions/888205455/)
 4. [Winner of the Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/submissions/888212018/)
-5. [Finding the Mountain Array]()
+5. [Finding the Mountain Array](https://leetcode.com/problems/find-in-mountain-array/submissions/888791411/)
 6. [Number of ways to separate Numbers]()
 7. [City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/submissions/888245572/)
 8. [Closest Primes in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/submissions/888278067/)
