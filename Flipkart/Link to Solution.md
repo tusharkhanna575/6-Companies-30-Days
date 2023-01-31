@@ -8,7 +8,7 @@
 7. [City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/submissions/888245572/)
 8. [Closest Primes in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/submissions/888278067/)
 9. [Top K frequent Words](https://leetcode.com/problems/top-k-frequent-words/submissions/886180958/)
-10. [Distant Barcodes]()
+10. [Distant Barcodes](https://leetcode.com/problems/distant-barcodes/submissions/888491577/)
 11. [The new game to Play]()
 12. [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/submissions/887429555/)
 13. [Max Area of Island](https://leetcode.com/problems/max-area-of-island/submissions/887430607/)
