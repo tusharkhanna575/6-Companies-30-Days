@@ -4,7 +4,7 @@
 - [x] [Maximum Good People Based on Statements](https://leetcode.com/problems/maximum-good-people-based-on-statements/)
 - [x] [Sort an array](https://leetcode.com/problems/sort-an-array/)
 - [x] [Fruit into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
-- [ ] [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)
+- [x] [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)
 - [ ] [Distinct Echo Substrings](https://leetcode.com/problems/distinct-echo-substrings/)
 - [x] [K divisible Array Substrings](https://leetcode.com/problems/k-divisible-elements-subarrays/)
 - [x] [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) **(New Project at Google Play Services)**
