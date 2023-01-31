@@ -13,4 +13,4 @@
 - [x] [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)
 - [x] [Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
 - [x] [Custom String Sorting](https://leetcode.com/problems/custom-sort-string/)
-- [ ] [House Robber](https://leetcode.com/problems/house-robber-iii/) ~ **Very Important**
+- [x] [House Robber](https://leetcode.com/problems/house-robber-iii/) ~ **Very Important**
